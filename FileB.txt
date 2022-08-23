@@ -1,1 +1,1 @@
-"This is FileB -version2- feature branch" 
+"This is FileB -version2- master change" 
